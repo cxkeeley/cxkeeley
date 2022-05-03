@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 - 👋 Hi, I’m @cxkeeley
 - 👀 I’m interested in Solving a problem
 - 🔭 I’m currently working on Freelance
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning Javascript, React, React Native, Node.js
 - 👯 I’m looking to collaborate on Making a problem solving software that can solve problem globally
 - 📫 How to reach me: cxkeeley@gmail.com
