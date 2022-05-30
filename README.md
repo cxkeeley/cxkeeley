@@ -23,4 +23,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Making a problem solving software that can solve problem globally
 - 📫 How to reach me: cxkeeley@gmail.com
 
+## My Stats
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cxkeeley&show_icons=true&theme=radical)
