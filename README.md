@@ -22,3 +22,5 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning React, React Native, Node.js
 - 👯 I’m looking to collaborate on Making a problem solving software that can solve problem globally
 - 📫 How to reach me: cxkeeley@gmail.com
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cxkeeley&show_icons=true&theme=radical)
