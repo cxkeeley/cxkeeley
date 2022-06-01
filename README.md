@@ -1,11 +1,11 @@
 Hi 👋 My name is Darwin
 =======================
 
-I'm Full Stack Developer
+Full Stack Developer
 ------------------------
 
 * 🌍  I'm based in Indonesia
-* 🖥️  See my portfolio at [cxkeeley](http://cxkeeley-portfolio.netlify.app)
+* 🖥️  See my portfolio at [my personal-website](http://cxkeeley-portfolio.netlify.app)
 * ✉️  You can contact me at [cxkeeley@gmail.com](mailto:cxkeeley@gmail.com)
 
 ### Skills
